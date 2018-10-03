@@ -1,0 +1,21 @@
+table#social{
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+}
+body{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    float: center;
+    font-family: "ARIAL"
+}
+div.git{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
