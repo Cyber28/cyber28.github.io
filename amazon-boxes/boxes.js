@@ -1,6 +1,7 @@
 var boxes = [
     'https://cdn.discordapp.com/attachments/393481058202419211/538071115038326826/final_boss_fucker.png',
-    'https://cdn.discordapp.com/attachments/393481058202419211/538071499513397253/tumblr_oha304kxd91ukp9i1o1_1280.jpg'
+    'https://cdn.discordapp.com/attachments/393481058202419211/538071499513397253/tumblr_oha304kxd91ukp9i1o1_1280.jpg',
+    'https://cdn.discordapp.com/attachments/393481058202419211/538093715110232084/unknown.png'
 ]
 
 function render(c){
