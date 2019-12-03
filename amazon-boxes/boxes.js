@@ -4,8 +4,8 @@ var boxes = [
     'https://cdn.discordapp.com/attachments/393481058202419211/538093715110232084/unknown.png'
 ]
 
-function render(c){
-    for(var i in c){
+function render(c) {
+    for (var i in c) {
         console.log(c[i])
         var divthemainoneithink = document.createElement("div")
         divthemainoneithink.setAttribute("class", "card")
@@ -27,11 +27,11 @@ function render(c){
 
         divthemainoneithink.appendChild(div2theavataroneyouknow)
         divthemainoneithink.appendChild(div3thefooteroneyouknow)
-        
+
         document.getElementById("h").appendChild(divthemainoneithink)
     }
 }
 
-window.onload = function(){
+window.onload = function () {
     render(boxes)
 }
